@@ -1,4 +1,34 @@
-<h1>Tharindu Nimesh</h1>
+<h1>
+  Tharindu Nimesh
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://tharinduxn.dev" title="Portfolio: tharinduxn.dev">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/portfolio-light.svg" />
+      <img src="./assets/icons/portfolio-dark.svg" alt="Portfolio" width="30" height="30" align="absmiddle" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tharinduxn/" title="LinkedIn: in/tharinduxn">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/linkedin-light.svg" />
+      <img src="./assets/icons/linkedin-dark.svg" alt="LinkedIn" width="30" height="30" align="absmiddle" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://github.com/tharinduxn" title="GitHub: @tharinduxn">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/github-light.svg" />
+      <img src="./assets/icons/github-dark.svg" alt="GitHub" width="30" height="30" align="absmiddle" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="mailto:tharinduxn@gmail.com" title="Email: tharinduxn@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/email-light.svg" />
+      <img src="./assets/icons/email-dark.svg" alt="Email" width="30" height="30" align="absmiddle" />
+    </picture>
+  </a>
+</h1>
 
 <img src="./assets/portrait.svg" align="left" width="260" hspace="24" alt="Animated binary portrait of Tharindu Nimesh" />
 
@@ -59,36 +89,4 @@ Add 2 to 4 of your best projects here. A plain list ages better than a widget:
     <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/snake-light.svg" />
     <img src="./assets/analytics/snake-dark.svg" alt="GitHub contribution graph" width="100%" />
   </picture>
-</p>
-
-## Connect
-
-<p align="left">
-  <a href="https://tharinduxn.dev" title="Portfolio: tharinduxn.dev">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/portfolio-light.svg" />
-      <img src="./assets/icons/portfolio-dark.svg" alt="Portfolio" width="44" height="44" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tharinduxn/" title="LinkedIn: in/tharinduxn">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/linkedin-light.svg" />
-      <img src="./assets/icons/linkedin-dark.svg" alt="LinkedIn" width="44" height="44" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/tharinduxn" title="GitHub: @tharinduxn">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/github-light.svg" />
-      <img src="./assets/icons/github-dark.svg" alt="GitHub" width="44" height="44" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tharinduxn@gmail.com" title="Email: tharinduxn@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/email-light.svg" />
-      <img src="./assets/icons/email-dark.svg" alt="Email" width="44" height="44" />
-    </picture>
-  </a>
 </p>
