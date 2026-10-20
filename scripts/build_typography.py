@@ -1,8 +1,8 @@
-"""Generate README headings as outlined Geist Pixel Square SVGs.
+"""Generate README headings as outlined Geist Mono Medium SVGs.
 
 Install fonttools, then run: python scripts/build_typography.py
-Font source: https://github.com/vercel/geist-font/tree/geist%401.7.0/fonts/GeistPixel
-The bundled font is licensed under assets/fonts/GeistPixel-OFL.txt.
+Font source: https://github.com/vercel/geist-font/tree/geist%401.7.0/fonts/GeistMono
+The bundled font is licensed under assets/fonts/GeistMono-OFL.txt.
 Outlines avoid dependence on installed fonts or external font loading.
 """
 
@@ -14,7 +14,7 @@ from fontTools.pens.transformPen import TransformPen
 from fontTools.ttLib import TTFont
 
 ROOT = Path(__file__).resolve().parents[1]
-FONT = TTFont(ROOT / "assets/fonts/GeistPixel-Square.ttf")
+FONT = TTFont(ROOT / "assets/fonts/GeistMono-Medium.ttf")
 GLYPHS = FONT.getGlyphSet()
 CMAP = FONT.getBestCmap()
 UNITS = FONT["head"].unitsPerEm
@@ -48,11 +48,11 @@ def build():
     ):
         artworks = {
             "intro": (720, 112, [
-                ("Hi, I'm Tharindu Nimesh", 42, 50, foreground),
-                ("Creative Developer", 24, 90, accent),
+                ("Hi, I'm Tharindu Nimesh", 38, 50, foreground),
+                ("Creative Developer", 22, 90, accent),
             ]),
             **{
-                key: (600, 52, [(label, 26, 36, foreground)])
+                key: (600, 52, [(label, 24, 36, foreground)])
                 for key, label in headings.items()
             },
         }
@@ -66,7 +66,7 @@ def build():
                 f"<title id=\"title\">{title}</title>\n{paths}\n</svg>\n"
             )
             (OUT / f"{key}-{theme}.svg").write_text(svg, encoding="utf-8")
-    print("Generated 10 Geist Pixel Square SVGs for light and dark themes.")
+    print("Generated 10 Geist Mono SVGs for light and dark themes.")
 
 
 if __name__ == "__main__":
