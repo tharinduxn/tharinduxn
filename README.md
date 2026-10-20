@@ -82,11 +82,11 @@ Add 2 to 4 of your best projects here. A plain list ages better than a widget:
   </picture>
 </p>
 
-## Contribution graph
+## Contribution calendar
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/snake-light.svg" />
-    <img src="./assets/analytics/snake-dark.svg" alt="GitHub contribution graph" width="100%" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/calendar-light.svg" />
+    <img src="./assets/analytics/calendar-dark.svg" alt="GitHub contribution calendar for the past year" width="100%" />
   </picture>
 </p>
