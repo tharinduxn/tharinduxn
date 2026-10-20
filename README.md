@@ -2,10 +2,6 @@
   Tharindu Nimesh
   &nbsp;&nbsp;&nbsp;
   <a href="https://tharinduxn.dev" title="Portfolio: tharinduxn.dev">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/portfolio-light.svg" />
-      <img src="./assets/icons/portfolio-dark.svg" alt="Portfolio" width="30" height="30" align="absmiddle" />
-    </picture>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/tharinduxn/" title="LinkedIn: in/tharinduxn">
