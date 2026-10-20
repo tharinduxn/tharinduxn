@@ -1,6 +1,20 @@
-<h1>
-  Tharindu Nimesh
-  &nbsp;&nbsp;&nbsp;
+<h1 align="center">Hi, I'm Tharindu Nimesh</h1>
+
+<p align="center">
+  <strong>Frontend &amp; Flutter Developer</strong><br />
+  Thoughtful design. Clean code. Interfaces that feel right.
+</p>
+
+<p align="center">
+  <img src="./assets/typing.svg" width="480" alt="I build responsive React &amp; Next.js apps, polished Flutter mobile apps, design systems with clean architecture" />
+</p>
+
+<p align="center">
+  I build web and mobile experiences with React, Next.js, and Flutter.<br />
+  My focus is on responsive layouts, thoughtful interactions, and code that's easy to maintain.
+</p>
+
+<p align="center">
   <a href="https://tharinduxn.dev" title="Portfolio: tharinduxn.dev">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./assets/icons/portfolio-light.svg" />
@@ -28,19 +42,9 @@
       <img src="./assets/icons/email-dark.svg" alt="Email" width="30" height="30" align="absmiddle" />
     </picture>
   </a>
-</h1>
+</p>
 
-<br />
-
-<p><strong>Interfaces engineered for clarity, speed, and feel.</strong></p>
-
-<img src="./assets/typing.svg" width="480" alt="I build responsive React &amp; Next.js apps, polished Flutter mobile apps, design systems with clean architecture" />
-
-<p>Frontend web and Flutter mobile developer. Great software is felt in the details: the responsiveness of a layout, the restraint of a micro-interaction, and the clarity of the architecture underneath. I build modern web applications and cross-platform mobile experiences where design craft and frontend engineering work as one.</p>
-
-<br clear="left" />
-
-## Tech stack
+<h2 align="center">Tools I build with</h2>
 
 <p align="center">
   <picture>
@@ -49,7 +53,7 @@
   </picture>
 </p>
 
-## Current focus
+<h2 align="center">What I'm focused on</h2>
 
 <p align="center">
   <picture>
@@ -67,7 +71,7 @@ Add 2 to 4 of your best projects here. A plain list ages better than a widget:
 - **[Project name](https://github.com/tharinduxn/repo)**: one line on what it does and the stack behind it.
 -->
 
-## GitHub stats
+<h2 align="center">My GitHub activity</h2>
 
 <p align="center">
   <picture>
@@ -80,7 +84,7 @@ Add 2 to 4 of your best projects here. A plain list ages better than a widget:
   </picture>
 </p>
 
-## Contribution calendar
+<h2 align="center">Contributions over the past year</h2>
 
 <p align="center">
   <picture>
