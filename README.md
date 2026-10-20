@@ -1,7 +1,11 @@
-<h1 align="center">Hi, I'm Tharindu Nimesh</h1>
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/typography/intro-light.svg" />
+    <img src="./assets/typography/intro-dark.svg" width="720" alt="Hi, I'm Tharindu Nimesh — Creative Developer" />
+  </picture>
+</h1>
 
 <p align="center">
-  <strong>Frontend &amp; Flutter Developer</strong><br />
   Thoughtful design. Clean code. Interfaces that feel right.
 </p>
 
@@ -44,7 +48,12 @@
   </a>
 </p>
 
-<h2 align="center">Tools I build with</h2>
+<h2 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/typography/tools-light.svg" />
+    <img src="./assets/typography/tools-dark.svg" width="600" alt="Tools I build with" />
+  </picture>
+</h2>
 
 <p align="center">
   <picture>
@@ -53,7 +62,12 @@
   </picture>
 </p>
 
-<h2 align="center">What I'm focused on</h2>
+<h2 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/typography/focus-light.svg" />
+    <img src="./assets/typography/focus-dark.svg" width="600" alt="What I'm focused on" />
+  </picture>
+</h2>
 
 <p align="center">
   <picture>
@@ -71,7 +85,12 @@ Add 2 to 4 of your best projects here. A plain list ages better than a widget:
 - **[Project name](https://github.com/tharinduxn/repo)**: one line on what it does and the stack behind it.
 -->
 
-<h2 align="center">My GitHub activity</h2>
+<h2 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/typography/activity-light.svg" />
+    <img src="./assets/typography/activity-dark.svg" width="600" alt="My GitHub activity" />
+  </picture>
+</h2>
 
 <p align="center">
   <picture>
@@ -84,7 +103,12 @@ Add 2 to 4 of your best projects here. A plain list ages better than a widget:
   </picture>
 </p>
 
-<h2 align="center">Contributions over the past year</h2>
+<h2 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/typography/contributions-light.svg" />
+    <img src="./assets/typography/contributions-dark.svg" width="600" alt="Contributions over the past year" />
+  </picture>
+</h2>
 
 <p align="center">
   <picture>
