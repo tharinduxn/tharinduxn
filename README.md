@@ -26,17 +26,11 @@
   </a>
 </h1>
 
-<img src="./assets/portrait.svg" align="left" width="260" hspace="24" alt="Animated binary portrait of Tharindu Nimesh" />
-
-<br />
-
 <p><strong>Interfaces engineered for clarity, speed, and feel.</strong></p>
 
 <img src="./assets/typing.svg" width="480" alt="I build responsive React &amp; Next.js apps, polished Flutter mobile apps, design systems with clean architecture" />
 
 <p>Frontend web and Flutter mobile developer. Great software is felt in the details: the responsiveness of a layout, the restraint of a micro-interaction, and the clarity of the architecture underneath. I build modern web applications and cross-platform mobile experiences where design craft and frontend engineering work as one.</p>
-
-<br clear="left" />
 
 ## Tech stack
 
