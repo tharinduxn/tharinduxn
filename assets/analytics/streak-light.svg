@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="388" height="196" viewBox="0 0 388 196" role="img" aria-label="Consistency and Streak">
+  <title>Contribution Streak — @tharinduxn</title>
+  <rect x="0.5" y="0.5" width="387" height="195" rx="12" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <text x="24" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#0F172A">Consistency</text>
+  <text x="24" y="49" font-family="'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#64748B">Daily build cadence</text>
+
+  <text x="24" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="600" fill="#0F172A">17 <tspan font-size="12.5" font-weight="400" fill="#64748B">days</tspan></text>
+  <text x="24" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#64748B">Current Streak</text>
+
+  <text x="24" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="600" fill="#334155">17 <tspan font-size="12.5" font-weight="400" fill="#64748B">days</tspan></text>
+  <text x="24" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#64748B">Longest Streak (365d)</text>
+
+  <g transform="translate(304, 116)">
+    <circle cx="0" cy="0" r="35" fill="none" stroke="#F1F5F9" stroke-width="5.5"/>
+    <circle cx="0" cy="0" r="35" fill="none" stroke="#059669" stroke-width="5.5"
+            stroke-linecap="round" stroke-dasharray="134.1 219.9" transform="rotate(-90)"/>
+    <text x="0" y="5" text-anchor="middle" font-family="'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="600" fill="#0F172A">61%</text>
+    <text x="0" y="52" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" fill="#64748B">Active Year</text>
+  </g>
+</svg>

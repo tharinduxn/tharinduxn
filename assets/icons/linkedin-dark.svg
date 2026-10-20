@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" role="img" aria-label="LinkedIn — in/tharinduxn">
+  <title>LinkedIn — in/tharinduxn</title>
+  <rect x="0.5" y="0.5" width="43" height="43" rx="11" fill="#0D1117" stroke="#21262D"/>
+  <g transform="translate(10, 10)">
+    <rect x="3.5" y="3.5" width="17" height="17" rx="3" fill="none" stroke="#F0F6FC" stroke-width="1.5"/><circle cx="8" cy="8.2" r="1.1" fill="#F0F6FC"/><line x1="8" y1="10.8" x2="8" y2="16.5" stroke="#F0F6FC" stroke-width="1.6" stroke-linecap="round"/><path d="M11.5 16.5V10.8M11.5 12.8C11.5 11.2 16 10.8 16 13.2V16.5" fill="none" stroke="#F0F6FC" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+</svg>

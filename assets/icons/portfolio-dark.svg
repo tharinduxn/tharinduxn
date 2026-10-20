@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" role="img" aria-label="Portfolio — tharinduxn.dev">
+  <title>Portfolio — tharinduxn.dev</title>
+  <rect x="0.5" y="0.5" width="43" height="43" rx="11" fill="#0D1117" stroke="#21262D"/>
+  <g transform="translate(10, 10)">
+    <circle cx="12" cy="12" r="8.5" fill="none" stroke="#F0F6FC" stroke-width="1.5"/><ellipse cx="12" cy="12" rx="3.8" ry="8.5" fill="none" stroke="#F0F6FC" stroke-width="1.4"/><line x1="3.8" y1="12" x2="20.2" y2="12" stroke="#F0F6FC" stroke-width="1.4"/>
+  </g>
+</svg>
