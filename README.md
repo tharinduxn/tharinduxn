@@ -2,6 +2,10 @@
   Tharindu Nimesh
   &nbsp;&nbsp;&nbsp;
   <a href="https://tharinduxn.dev" title="Portfolio: tharinduxn.dev">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/icons/portfolio-light.svg" />
+      <img src="./assets/icons/portfolio-dark.svg" alt="Portfolio" width="30" height="30" align="absmiddle" />
+    </picture>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/tharinduxn/" title="LinkedIn: in/tharinduxn">
@@ -26,11 +30,15 @@
   </a>
 </h1>
 
+<br />
+
 <p><strong>Interfaces engineered for clarity, speed, and feel.</strong></p>
 
 <img src="./assets/typing.svg" width="480" alt="I build responsive React &amp; Next.js apps, polished Flutter mobile apps, design systems with clean architecture" />
 
 <p>Frontend web and Flutter mobile developer. Great software is felt in the details: the responsiveness of a layout, the restraint of a micro-interaction, and the clarity of the architecture underneath. I build modern web applications and cross-platform mobile experiences where design craft and frontend engineering work as one.</p>
+
+<br clear="left" />
 
 ## Tech stack
 
