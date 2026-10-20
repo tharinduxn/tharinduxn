@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="28" viewBox="0 0 340 28" role="img" aria-label="Frontend Web and Flutter Mobile Developer">
-  <title>Frontend Web &amp; Flutter Mobile Developer</title>
-  <rect x="0.5" y="0.5" width="339" height="27" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/>
-  <circle cx="16" cy="14" r="3.2" fill="#059669">
-    <animate attributeName="opacity" values="1;0.35;1" dur="2.6s" repeatCount="indefinite"/>
-  </circle>
-  <text x="28" y="18" font-family="'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="500" fill="#334155" letter-spacing="0.5">FRONTEND WEB  ·  FLUTTER MOBILE</text>
-</svg>

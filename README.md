@@ -1,106 +1,91 @@
-<!-- 1. HERO SECTION (BINARY PORTRAIT ON LEFT, PERSONAL BRAND BESIDE IT) -->
-<img src="./assets/binary-portrait.png" align="left" width="230" alt="Tharindu Nimesh — Binary Portrait" hspace="24" vspace="4" />
+<h1>Tharindu Nimesh</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/status-light.svg" />
-  <img src="./assets/status-dark.svg" alt="Frontend Web · Flutter Mobile" height="28" />
-</picture>
+<img src="./assets/portrait.svg" align="left" width="260" hspace="24" alt="Animated binary portrait of Tharindu Nimesh" />
 
-# Tharindu Nimesh
+<br />
 
-**Interfaces engineered for clarity, speed, and feel.**
+<p><strong>Interfaces engineered for clarity, speed, and feel.</strong></p>
 
-Frontend Web & Flutter Mobile App Developer crafting modern digital experiences with **React**, **Next.js**, and **Flutter**—obsessed with UI/UX precision, clean architecture, and fluid performance.
+<img src="./assets/typing.svg" width="480" alt="I build responsive React &amp; Next.js apps, polished Flutter mobile apps, design systems with clean architecture" />
+
+<p>Frontend web and Flutter mobile developer. Great software is felt in the details: the responsiveness of a layout, the restraint of a micro-interaction, and the clarity of the architecture underneath. I build modern web applications and cross-platform mobile experiences where design craft and frontend engineering work as one.</p>
 
 <br clear="left" />
 
-<br />
-
-<!-- 2. SHORT INTRODUCTION -->
-<sub><code>01</code> &nbsp;·&nbsp; <strong>INTRODUCTION</strong></sub>
-
-Great software is felt in the details—the responsiveness of a layout, the restraint of a micro-interaction, and the clarity of the architecture underneath. I build modern web applications and cross-platform mobile experiences where design craft and frontend engineering work as one.
-
-<br />
-
-<!-- 3. MINIMAL SINGLE-LINE TECH STACK SHOWCASE (ICONS ONLY) -->
-<sub><code>02</code> &nbsp;·&nbsp; <strong>TECH STACK</strong></sub>
+## Tech stack
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/tech-dock-light.svg" />
-    <img src="./assets/tech-dock-dark.svg" alt="React · Next.js · Flutter · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS · Firebase · Git · Figma" width="100%" />
+    <img src="./assets/tech-dock-dark.svg" alt="React, Next.js, Flutter, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Firebase, Git, Figma" width="100%" />
   </picture>
 </p>
 
-<br />
-
-<!-- 4. CURRENT FOCUS SECTION -->
-<sub><code>03</code> &nbsp;·&nbsp; <strong>CURRENT FOCUS</strong></sub>
+## Current focus
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/focus-light.svg" />
-    <img src="./assets/focus-dark.svg" alt="Current Focus: Building modern React & Next.js applications, Creating polished Flutter mobile apps, Improving UI/UX design systems, Learning advanced frontend architecture, Open source contributions" width="100%" />
+    <img src="./assets/focus-dark.svg" alt="Current focus: modern React and Next.js applications, polished Flutter mobile apps, UI/UX design systems, advanced frontend architecture, open source contributions" width="100%" />
   </picture>
 </p>
 
-<br />
+<!--
+## Selected work
 
-<!-- 5. GITHUB STATS SECTION -->
-<sub><code>04</code> &nbsp;·&nbsp; <strong>GITHUB STATS</strong></sub>
+Add 2 to 4 of your best projects here. A plain list ages better than a widget:
+
+- **[Project name](https://github.com/tharinduxn/repo)**: one line on what it does and the stack behind it.
+- **[Project name](https://github.com/tharinduxn/repo)**: one line on what it does and the stack behind it.
+-->
+
+## GitHub stats
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/stats-light.svg" />
-    <img src="./assets/analytics/stats-dark.svg" alt="GitHub Overview" width="49%" />
+    <img src="./assets/analytics/stats-dark.svg" alt="GitHub overview" width="49%" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/streak-light.svg" />
-    <img src="./assets/analytics/streak-dark.svg" alt="Contribution Consistency" width="49%" />
+    <img src="./assets/analytics/streak-dark.svg" alt="Contribution streak" width="49%" />
   </picture>
 </p>
 
-<br />
-
-<!-- 6. CONTRIBUTION GRAPH -->
-<sub><code>05</code> &nbsp;·&nbsp; <strong>CONTRIBUTION GRAPH</strong></sub>
+## Contribution graph
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/snake-light.svg" />
-    <img src="./assets/analytics/snake-dark.svg" alt="GitHub Contribution Graph" width="100%" />
+    <img src="./assets/analytics/snake-dark.svg" alt="GitHub contribution graph" width="100%" />
   </picture>
 </p>
 
-<br />
-
-<!-- 7. CONNECT SECTION (MINIMAL MODERN ICON LINKS ONLY) -->
-<sub><code>06</code> &nbsp;·&nbsp; <strong>CONNECT</strong></sub>
+## Connect
 
 <p align="left">
-  <a href="https://tharinduxn.dev" title="Portfolio — tharinduxn.dev">
+  <a href="https://tharinduxn.dev" title="Portfolio: tharinduxn.dev">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./assets/icons/portfolio-light.svg" />
       <img src="./assets/icons/portfolio-dark.svg" alt="Portfolio" width="44" height="44" />
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tharinduxn/" title="LinkedIn — in/tharinduxn">
+  <a href="https://www.linkedin.com/in/tharinduxn/" title="LinkedIn: in/tharinduxn">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./assets/icons/linkedin-light.svg" />
       <img src="./assets/icons/linkedin-dark.svg" alt="LinkedIn" width="44" height="44" />
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/tharinduxn" title="GitHub — @tharinduxn">
+  <a href="https://github.com/tharinduxn" title="GitHub: @tharinduxn">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./assets/icons/github-light.svg" />
       <img src="./assets/icons/github-dark.svg" alt="GitHub" width="44" height="44" />
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:tharinduxn@gmail.com" title="Email — tharinduxn@gmail.com">
+  <a href="mailto:tharinduxn@gmail.com" title="Email: tharinduxn@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./assets/icons/email-light.svg" />
       <img src="./assets/icons/email-dark.svg" alt="Email" width="44" height="44" />
