@@ -2,7 +2,7 @@
 /**
  * Generates the two animated SVGs used by README.md
  *
- *   assets/portrait.svg  <- wraps assets/binary-portrait.png in an animated "lens"
+ *   assets/portrait.svg  <- wraps assets/binary-portrait.png in a lens with animated rings
  *   assets/typing.svg    <- terminal-style chip that types out your roles
  *
  * Usage:  node scripts/build-assets.mjs
@@ -163,10 +163,6 @@ async function buildPortrait() {
   <title>Tharindu Nimesh — binary portrait</title>
   <defs>
     <clipPath id="lens"><circle cx="${cx}" cy="${cy}" r="${R}"/></clipPath>
-    <linearGradient id="band" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="${c.head}" stop-opacity="0"/>
-      <stop offset="1" stop-color="${c.head}" stop-opacity=".38"/>
-    </linearGradient>
     <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur stdDeviation="3.2" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
@@ -176,23 +172,15 @@ async function buildPortrait() {
     .rot{transform-box:view-box;transform-origin:${cx}px ${cy}px}
     .spin{animation:spin 9s linear infinite}
     .spin-slow{animation:spin 48s linear infinite reverse}
-    .scan{animation:sweep 5.4s cubic-bezier(.5,0,.5,1) infinite}
     .breathe{animation:breathe 3.6s ease-in-out infinite}
     .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.2s ease-out infinite}
     text{font-family:${FONT};font-size:12px;letter-spacing:.4px}
     @keyframes spin{to{transform:rotate(360deg)}}
-    @keyframes sweep{
-      0%{transform:translateY(0);opacity:0}
-      8%{opacity:1}
-      58%{transform:translateY(${2 * R}px);opacity:1}
-      66%{transform:translateY(${2 * R}px);opacity:0}
-      100%{transform:translateY(${2 * R}px);opacity:0}
-    }
     @keyframes breathe{0%,100%{stroke-opacity:.14}50%{stroke-opacity:.5}}
     @keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(2.8);opacity:0}}
     @media (prefers-reduced-motion:reduce){
-      .spin,.spin-slow,.scan,.breathe,.pulse{animation:none}
-      .scan,.pulse{opacity:0}
+      .spin,.spin-slow,.breathe,.pulse{animation:none}
+      .pulse{opacity:0}
     }
   </style>
 
@@ -211,15 +199,9 @@ async function buildPortrait() {
     </g>
   </g>
 
-  <!-- lens: backdrop, photo, scanner, edge -->
+  <!-- lens: backdrop, photo, edge -->
   <circle cx="${cx}" cy="${cy}" r="${R}" fill="${c.lens}"/>
   <image xlink:href="data:${mime};base64,${b64}" x="${cx - R}" y="${cy - R}" width="${2 * R}" height="${2 * R}" preserveAspectRatio="xMidYMid slice" clip-path="url(#lens)"/>
-  <g clip-path="url(#lens)">
-    <g class="scan">
-      <rect x="${cx - R}" y="${cy - R - 54}" width="${2 * R}" height="54" fill="url(#band)"/>
-      <rect x="${cx - R}" y="${cy - R - 1}" width="${2 * R}" height="1.5" fill="${c.head}" fill-opacity=".95"/>
-    </g>
-  </g>
   <circle class="breathe" cx="${cx}" cy="${cy}" r="${R}" fill="none" stroke="${c.head}" stroke-width="1.25"/>
 
   <!-- status pill -->
