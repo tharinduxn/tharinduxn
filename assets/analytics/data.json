@@ -1,6 +1,6 @@
 {
   "username": "tharinduxn",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "public_repositories": 14,
   "stars": 4,
   "followers": 22,
@@ -8,13 +8,8 @@
   "current_streak": 0,
   "longest_streak_365_days": 7,
   "active_days_365": 73,
-  "active_days_30": 9,
+  "active_days_30": 8,
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-27",
       "count": 3,
@@ -1832,6 +1827,11 @@
     },
     {
       "date": "2026-10-25",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-10-26",
       "count": 0,
       "level": 0
     }
