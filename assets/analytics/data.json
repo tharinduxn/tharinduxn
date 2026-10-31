@@ -1,6 +1,6 @@
 {
   "username": "tharinduxn",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "public_repositories": 14,
   "stars": 4,
   "followers": 23,
@@ -10,11 +10,6 @@
   "active_days_365": 73,
   "active_days_30": 9,
   "days": [
-    {
-      "date": "2025-10-31",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-01",
       "count": 0,
@@ -1832,6 +1827,11 @@
     },
     {
       "date": "2026-10-30",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-10-31",
       "count": 0,
       "level": 0
     }
